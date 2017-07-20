@@ -1,6 +1,8 @@
 # 2048 Clone
 
-A clone of 2048 using Mousetrap.js and Underscore.js.
+A clone of 2048 :video_game: using Mousetrap.js and Underscore.js.
+
+Built with [RyanA760](https://github.com/RyanA760)!
 
 ## Gameplay
 Check out the gameplay: |
